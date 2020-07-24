@@ -1,0 +1,49 @@
+,State,Abbr,Bordering States,Latitude,Longitude,Temperature
+0,Alabama,AL,"Florida, Georgia, Mississippi, Tennessee",32.806671,-86.79113000000001,62.8
+1,Arizona,AZ,"California, Colorado, Nevada, New Mexico, Utah",33.729759,-111.431221,60.3
+2,Arkansas,AR,"Louisiana, Mississippi, Missouri, Oklahoma, Tennessee, Texas",34.969704,-92.37312299999999,60.4
+3,California,CA,"Arizona, Nevada, Oregon",36.116203000000006,-119.681564,59.4
+4,Colorado,CO,"Arizona, Kansas, Nebraska, New Mexico, Oklahoma, Utah, Wyoming",39.059810999999996,-105.311104,45.1
+5,Connecticut,CT,"Massachusetts, New York, Rhode Island",41.597782,-72.755371,49.0
+6,Delaware,DE,"Maryland, New Jersey, Pennsylvania",39.318523,-75.507141,55.3
+7,Florida,FL,"Alabama, Georgia",27.766278999999997,-81.68678299999999,70.7
+8,Georgia,GA,"Alabama, Florida, North Carolina, South Carolina, Tennessee",33.040619,-83.643074,63.5
+9,Idaho,ID,"Montana, Nevada, Oregon, Utah, Washington, Wyoming",44.240459,-114.47882800000001,44.4
+10,Illinois,IL,"Indiana, Iowa, Michigan, Kentucky, Missouri, Wisconsin",40.349457,-88.986137,51.8
+11,Indiana,IN,"Illinois, Kentucky, Michigan, Ohio",39.849426,-86.258278,51.7
+12,Iowa,IA,"Illinois, Minnesota, Missouri, Nebraska, South Dakota, Wisconsin",42.011539,-93.210526,47.8
+13,Kansas,KS,"Colorado, Missouri, Nebraska, Oklahoma",38.5266,-96.726486,54.3
+14,Kentucky,KY,"Illinois, Indiana, Missouri, Ohio, Tennessee, Virginia, West Virginia",37.66814,-84.670067,55.6
+15,Louisiana,LA,"Arkansas, Mississippi, Texas",31.169546,-91.867805,66.4
+16,Maine,ME,New Hampshire,44.693946999999994,-69.381927,41.0
+17,Maryland,MD,"Delaware, Pennsylvania, Virginia, West Virginia",39.063946,-76.80210100000001,54.2
+18,Massachusetts,MA,"Connecticut, New Hampshire, New York, Rhode Island, Vermont",42.230171,-71.530106,47.9
+19,Michigan,MI,"Illinois, Indiana, Minnesota, Ohio, Wisconsin",43.326617999999996,-84.53609499999999,44.4
+20,Minnesota,MN,"Iowa, Michigan, North Dakota, South Dakota, Wisconsin",45.694454,-93.900192,41.2
+21,Mississippi,MS,"Alabama, Arkansas, Louisiana, Tennessee",32.741646,-89.678696,63.4
+22,Missouri,MO,"Arkansas, Illinois, Iowa, Kansas, Kentucky, Nebraska, Oklahoma, Tennessee",38.456084999999995,-92.288368,54.5
+23,Montana,MT,"Idaho, North Dakota, South Dakota, Wyoming",46.921925,-110.454353,42.7
+24,Nebraska,NE,"Colorado, Iowa, Kansas, Missouri, South Dakota, Wyoming",41.125370000000004,-98.26808199999999,48.8
+25,Nevada,NV,"Arizona, California, Idaho, Oregon, Utah",38.313515,-117.055374,49.9
+26,New Hampshire,NH,"Maine, Massachusetts, Vermont",43.452492,-71.563896,43.8
+27,New Jersey,NJ,"Delaware, New York, Pennsylvania",40.298904,-74.521011,52.7
+28,New Mexico,NM,"Arizona, Colorado, Oklahoma, Texas, Utah",34.840515,-106.24848200000001,53.4
+29,New York,NY,"Connecticut, Massachusetts, New Jersey, Pennsylvania, Rhode Island, Vermont",42.165726,-74.948051,45.4
+30,North Carolina,NC,"Georgia, South Carolina, Tennessee, Virginia",35.630066,-79.80641899999999,59.0
+31,North Dakota,ND,"Minnesota, Montana, South Dakota",47.528912,-99.784012,40.4
+32,Ohio,OH,"Indiana, Kentucky, Michigan, Pennsylvania, West Virginia",40.388783000000004,-82.764915,50.7
+33,Oklahoma,OK,"Arkansas, Colorado, Kansas, Missouri, New Mexico, Texas",35.565342,-96.928917,59.6
+34,Oregon,OR,"California, Idaho, Nevada, Washington",44.572021,-122.07093799999998,48.4
+35,Pennsylvania,PA,"Delaware, Maryland, New Jersey, New York, Ohio, West Virginia",40.590752,-77.209755,48.8
+36,Rhode Island,RI,"Connecticut, Massachusetts, New York",41.680893,-71.51178,50.1
+37,South Carolina,SC,"Georgia, North Carolina",33.856891999999995,-80.94500699999999,62.4
+38,South Dakota,SD,"Iowa, Minnesota, Montana, Nebraska, North Dakota, Wyoming",44.299782,-99.438828,45.2
+39,Tennessee,TN,"Alabama, Arkansas, Georgia, Kentucky, Mississippi, Missouri, North Carolina, Virginia",35.747845,-86.69234499999999,57.6
+40,Texas,TX,"Arkansas, Louisiana, New Mexico, Oklahoma",31.054486999999998,-97.563461,64.8
+41,Utah,UT,"Arizona, Colorado, Idaho, Nevada, New Mexico, Wyoming",40.150032,-111.86243400000001,48.6
+42,Vermont,VT,"Massachusetts, New Hampshire, New York",44.045876,-72.710686,42.9
+43,Virginia,VA,"Kentucky, Maryland, North Carolina, Tennessee, West Virginia",37.769337,-78.16996800000001,55.1
+44,Washington,WA,"Idaho, Oregon",47.400902,-121.490494,48.3
+45,West Virginia,WV,"Kentucky, Maryland, Ohio, Pennsylvania, Virginia",38.491226,-80.954453,51.8
+46,Wisconsin,WI,"Illinois, Iowa, Michigan, Minnesota",44.268543,-89.616508,43.1
+47,Wyoming,WY,"Colorado, Idaho, Montana, Nebraska, South Dakota, Utah",42.755966,-107.30248999999999,42.0
